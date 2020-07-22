@@ -6,3 +6,5 @@ Folder **Slides** has all necessary slides
 
 Folder **Code** contains most of necessary code you need for this course
 
+Foler **Book** contains one of my reference books, please check the content of Part II,  III and VIII
+
